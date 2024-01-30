@@ -2,19 +2,22 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Jwindler/Assembly_tools) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Jwindler/Assembly_tools) ![GitHub License](https://img.shields.io/github/license/Jwindler/Assembly_tools)
 
-Genome Assembly tools are added by pipeline. Welcome contribute and get in touch!
+Genome Assembly tools are added by pipeline. **Welcome contribute and get in touch!**
 
-**Continuously updating**
-
-**[Volunteers](Y)**
-
-**[CONTRIBUTING](X)**
+[Google Group](https://groups.google.com/g/assembly-tools) | [Volunteers](Y)  | [CONTRIBUTING](X)
 
 
 
 ## Table of content
 
-
+- [Assembly analysis tools and papers](#assembly-analysis-tools-and-papers)
+  - [Table of content](#table-of-content)
+  - [Survery](#survery)
+  - [Conitg](#conitg)
+  - [Scaffold](#scaffold)
+  - [Hi-C](#hi-c)
+  - [Review](#review)
+  - [Assessment](#assessment)
 
 
 
@@ -22,10 +25,10 @@ Genome Assembly tools are added by pipeline. Welcome contribute and get in touch
 
 
 
-| Name | Introduction | Paper | Url  | Note |
-| ---- | ------------ | ----- | ---- | ---- |
-|      |              |       |      |      |
-|      |              |       |      |      |
+| Name | Introduction | Paper | Url | Note |
+| ---- | ------------ | ----- | --- | ---- |
+|      |              |       |     |      |
+|      |              |       |     |      |
 
 
 
@@ -35,10 +38,10 @@ Genome Assembly tools are added by pipeline. Welcome contribute and get in touch
 
 
 
-| Name | Introduction | Paper | Url  | Note |
-| ---- | ------------ | ----- | ---- | ---- |
-|      |              |       |      |      |
-|      |              |       |      |      |
+| Name | Introduction | Paper | Url | Note |
+| ---- | ------------ | ----- | --- | ---- |
+|      |              |       |     |      |
+|      |              |       |     |      |
 
 
 
@@ -48,10 +51,10 @@ Genome Assembly tools are added by pipeline. Welcome contribute and get in touch
 
 
 
-| Name | Introduction | Paper | Url  | Note |
-| ---- | ------------ | ----- | ---- | ---- |
-|      |              |       |      |      |
-|      |              |       |      |      |
+| Name | Introduction | Paper | Url | Note |
+| ---- | ------------ | ----- | --- | ---- |
+|      |              |       |     |      |
+|      |              |       |     |      |
 
 
 
@@ -61,10 +64,10 @@ Genome Assembly tools are added by pipeline. Welcome contribute and get in touch
 
 
 
-| Name | Introduction | Paper | Url  | Note |
-| ---- | ------------ | ----- | ---- | ---- |
-|      |              |       |      |      |
-|      |              |       |      |      |
+| Name | Introduction | Paper | Url | Note |
+| ---- | ------------ | ----- | --- | ---- |
+|      |              |       |     |      |
+|      |              |       |     |      |
 
 
 
@@ -74,10 +77,10 @@ Genome Assembly tools are added by pipeline. Welcome contribute and get in touch
 
 
 
-| Name | Introduction | Paper | Url  | Note |
-| ---- | ------------ | ----- | ---- | ---- |
-|      |              |       |      |      |
-|      |              |       |      |      |
+| Name | Introduction | Paper | Url | Note |
+| ---- | ------------ | ----- | --- | ---- |
+|      |              |       |     |      |
+|      |              |       |     |      |
 
 
 
@@ -85,10 +88,10 @@ Genome Assembly tools are added by pipeline. Welcome contribute and get in touch
 
 
 
-| Name | Introduction | Paper | Url  | Note |
-| ---- | ------------ | ----- | ---- | ---- |
-|      |              |       |      |      |
-|      |              |       |      |      |
+| Name | Introduction | Paper | Url | Note |
+| ---- | ------------ | ----- | --- | ---- |
+|      |              |       |     |      |
+|      |              |       |     |      |
 
 
 
