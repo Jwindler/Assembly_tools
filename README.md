@@ -17,7 +17,9 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
   - [Scaffold](#scaffold)
   - [Hi-C](#hi-c)
   - [Review](#review)
-  - [Assessment](#assessment)
+  - [Polish](#polish)
+  - [Evaluation](#evaluation)
+
 
 
 
@@ -25,10 +27,10 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 
 
 
-| Name | Introduction | Paper | Url | Note |
-| ---- | ------------ | ----- | --- | ---- |
-|      |              |       |     |      |
-|      |              |       |     |      |
+| Name        | Introduction                                       | Paper                                                             | Url                                                | Note |
+| ----------- | -------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------- | ---- |
+| GenomeScope | Fast genome analysis from unassembled short reads. | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btx153) | [Github](https://github.com/schatzlab/genomescope) |      |
+|             |                                                    |                                                                   |                                                    |      |
 
 
 
@@ -84,7 +86,7 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 
 
 
-## Assessment
+## Polish
 
 
 
@@ -92,6 +94,17 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 | ---- | ------------ | ----- | --- | ---- |
 |      |              |       |     |      |
 |      |              |       |     |      |
+
+
+
+## Evaluation
+
+**Genome assembly evaluation tools.**
+
+| Name  | Introduction                                                              | Paper                                                             | Url                                      | Note |
+| ----- | ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------- | ---- |
+| QUAST | a quality assessment tool for evaluating and comparing genome assemblies. | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btt086) | [Github](https://github.com/ablab/quast) |      |
+|       |                                                                           |                                                                   |                                          |      |
 
 
 
