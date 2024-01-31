@@ -4,7 +4,7 @@
 
 Genome Assembly tools are added by pipeline. **Welcome contribute and get in touch!**
 
-[Google Group](https://groups.google.com/g/assembly-tools) | [Volunteers](Y)  | [CONTRIBUTING](X)
+[Google Group](https://groups.google.com/g/assembly-tools) | [Volunteers](https://github.com/Jwindler/Assembly_tools/blob/main/Volunteers.md)  | [CONTRIBUTING](https://github.com/Jwindler/Assembly_tools/blob/main/CONTRIBUTING.md)
 
 
 
