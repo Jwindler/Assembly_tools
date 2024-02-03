@@ -10,15 +10,9 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 
 ## Table of content
 
-- [Assembly analysis tools and papers](#assembly-analysis-tools-and-papers)
-  - [Table of content](#table-of-content)
-  - [Survery](#survery)
-  - [Conitg](#conitg)
-  - [Scaffold](#scaffold)
-  - [Hi-C](#hi-c)
-  - [Review](#review)
-  - [Polish](#polish)
-  - [Evaluation](#evaluation)
+
+
+
 
 
 
@@ -53,25 +47,10 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 
 
 
-| Name | Introduction | Paper | Url | Note |
-| ---- | ------------ | ----- | --- | ---- |
-|      |              |       |     |      |
-|      |              |       |     |      |
-
-
-
-
-
-## Hi-C 
-
-
-
-| Name | Introduction | Paper | Url | Note |
-| ---- | ------------ | ----- | --- | ---- |
-|      |              |       |     |      |
-|      |              |       |     |      |
-
-
+| Name   | Introduction                   | Paper                                                        | Url                                          | Note          |
+| ------ | ------------------------------ | ------------------------------------------------------------ | -------------------------------------------- | ------------- |
+| 3D-DNA | Scaffold genome with Hi-C data | [*Science*](https://www.science.org/doi/10.1126/science.aal3327) | [Github](https://github.com/aidenlab/3d-dna) | Use Hi-C data |
+|        |                                |                                                              |                                              |               |
 
 
 
@@ -101,10 +80,10 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 
 **Genome assembly evaluation tools.**
 
-| Name  | Introduction                                                              | Paper                                                             | Url                                      | Note |
-| ----- | ------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------- | ---- |
-| QUAST | a quality assessment tool for evaluating and comparing genome assemblies. | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btt086) | [Github](https://github.com/ablab/quast) |      |
-|       |                                                                           |                                                                   |                                          |      |
+| Name           | Introduction                                                 | Paper                                                        | Url                                                          | Note              |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
+| QUAST          | a quality assessment tool for evaluating and comparing genome assemblies. | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btt086) | [Github](https://github.com/ablab/quast)                     |                   |
+| BioNanoAnalyst | a visualisation tool to assess genome assembly quality using BioNano data. | [*BMC Bioinformatics*](https://bmcbioinformatics.biomedcentral.com/) | [Github](https://github.com/AppliedBioinformatics/BioNanoAnalyst) | Use BioNano  data |
 
 
 
