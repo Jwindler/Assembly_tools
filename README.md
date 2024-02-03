@@ -34,10 +34,10 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 
 
 
-| Name | Introduction | Paper | Url | Note |
-| ---- | ------------ | ----- | --- | ---- |
-|      |              |       |     |      |
-|      |              |       |     |      |
+| Name    | Introduction                                                 | Paper                                                        | Url                                                          | Note          |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
+|         |                                                              |                                                              |                                                              |               |
+| HIFIASM | Hifiasm is a fast haplotype-resolved de novo assembler initially designed for PacBio HiFi reads. | [*nature methods*]([Haplotype-resolved de novo assembly using phased assembly graphs with hifiasm ) | [Github]([chhylp123/hifiasm: Hifiasm: a haplotype-resolved assembler for accurate Hifi reads (github.com)](https://github.com/chhylp123/hifiasm)) | Gene assemble |
 
 
 
