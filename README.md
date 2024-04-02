@@ -8,7 +8,7 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 
 
 
->   **If there is an error in cited papers or tool does not included in list, please raise an [ISSUE](https://github.com/Jwindler/Assembly_tools/issues). **
+>   **If there is an error in cited papers or tool does not included in list, please raise an** [ISSUE](https://github.com/Jwindler/Assembly_tools/issues). 
 
 
 
@@ -37,6 +37,8 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 | smudgeplot  | Such an approach also allows us to analyze obscure genomes with duplications, various ploidy levels, etc. | [*Nature Communications*](https://doi.org/10.1038/s41467-020-14998-3) | [Github](https://github.com/KamilSJaron/smudgeplot) | GenomeScope 2.0 | 2020.3      |
 | Jellyfish   | Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA. | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btr011) | [Github](https://github.com/gmarcais/Jellyfish)     |                 | 2011.1      |
 | nQuire      | A statistical framework for ploidy estimation using NGS short-read data. | [*BMC Bioinformatics*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2128-z) | [Github](https://github.com/clwgg/nQuire)           |                 | 2018.4      |
+| KMC         | Counting and manipulating k-mer statistics.                  | [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/33/17/2759/3796399?login=false) | [Github](https://github.com/refresh-bio/KMC)        |                 | 2017.5      |
+| KAT         | a K-mer analysis toolkit to quality control NGS datasets and genome assemblies | [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/33/4/574/2664339) | [Github](https://github.com/TGAC/KAT)               |                 | 2016.11     |
 
 
 
@@ -62,6 +64,10 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 | necat          | Nanopore data assembler                                      | [*Nature Communications*](https://www.nature.com/articles/s41467-020-20236-7) | [Github](https://github.com/xiaochuanle/NECAT)               |      | 2021.1      |
 | Hypo-Assembler | A diploid genome polisher and assembler.                     | [*Nature Methods*](https://www.nature.com/articles/s41592-023-02142-0) | [Github](https://github.com/kensung-lab/hypo-assembler)      |      | 2024.3      |
 | Verkko         | a hybrid genome assembly pipeline developed for T2T assembly of  HiFi or ONT reads. | [*Nature Biotechnology*](https://doi.org/10.1038/s41587-023-01662-6) | [Github](https://github.com/marbl/verkko)                    |      | 2023.2      |
+| NextPolish2    | Repeat-aware polishing genomes assembled using HiFi long reads. | [*GPB*](https://doi.org/10.1093/gpbjnl/qzad009)              | [Github](https://github.com/Nextomics/NextPolish2)           |      | 2024.1      |
+| Merfin         | Evaluate variant calls and its combination with k-mer multiplicity. | [*Nature Methods*](https://doi.org/10.1038/s41592-022-01445-y) | [Github](https://github.com/arangrhie/merfin)                |      | 2022.3      |
+| SOAPdenovo2    | Next generation sequencing reads de novo assembler.          | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btv033) | [Github](https://github.com/aquaskyline/SOAPdenovo2)         |      | 2015.1      |
+| Canu           | A single molecule sequence assembler for genomes large and small. | [*Genome Research*](https://doi.org/10.1101%2Fgr.215087.116) | [Github](https://github.com/marbl/canu)                      |      | 2017.5      |
 
 
 
@@ -89,6 +95,8 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 | HapHiC       | a fast, reference-independent, allele-aware scaffolding tool based on Hi-C data. | [*bioRxiv*](https://doi.org/10.1101/2023.11.18.567668)       | [Github](https://github.com/zengxiaofei/HapHiC)        |                                                 | 2023.11     |
 | scaffhic     | Pipeline for genome scaffolding by modelling distributions of HiC pairs. |                                                              | [Github](https://github.com/wtsi-hpag/scaffHiC)        |                                                 |             |
 | HiCAssembler | Software to assemble contigs/scaffolds into chromosomes using Hi-C data. | [*Genes & Dev*](https://doi.org/10.1101/gad.328971.119)      | [Github](https://github.com/maxplanck-ie/HiCAssembler) |                                                 | 2019.10     |
+| HaploHiC     | comprehensive haplotype division of Hi-C PE-reads based on local contacts ratio. |                                                              | [Github](https://github.com/Nobel-Justin/HaploHiC)     |                                                 |             |
+| DipAsm       | Efficient chromosome-scale haplotype-resolved assembly of human genomes. | [*bioRxiv*](https://www.biorxiv.org/content/10.1101/810341v2) | [Github](https://github.com/shilpagarg/DipAsm)         |                                                 | 2020.7      |
 
 
 
@@ -125,6 +133,9 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 | Merqury        | k-mer based assembly evaluation                              | [*Genome Biology*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02134-9) | [Github](https://github.com/marbl/merqury)                   |                   | 2020.9      |
 | Klumpy         | A Tool to Evaluate the Integrity of Long-Read Genome Assemblies and Illusive Sequence Motifs. | [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2024.02.14.580330v1.full) | [Bitbucket](https://bitbucket.org/Gio12/klumpy/src/master/)  |                   |             |
 | GAEP           | a comprehensive genome assembly evaluating pipeline.         | [*JGG*](https://pubmed.ncbi.nlm.nih.gov/37245652/)           | [Github](https://github.com/zy-optimistic/GAEP)              |                   | 2023.5      |
+| Flagger        | Evaluating genome assemblies.                                | [*Nature*](https://www.nature.com/articles/s41586-023-05896-x) | [Github](https://github.com/mobinasri/flagger)               |                   | 2023.5      |
+| Asset          | assembly evaluation tool.                                    |                                                              | [Github](https://github.com/dfguan/asset)                    |                   |             |
+| Inspector      | A tool for evaluating long-read de novo assembly results.    | [*Genome Biology*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02527-4) | [Github](https://github.com/Maggi-Chen/Inspector)            |                   | 2021.11     |
 
 
 
